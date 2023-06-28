@@ -5,7 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print A
-        run: echo "JE SUIS LA"
+        run: |
+          echo "HHHHHHHHHHHHHHHH"
+          echo "kkkkkkkkkkkkkkkkkk"
       - name: Print B
         run: echo "JE SUIS PAS LA"
   
