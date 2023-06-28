@@ -1,0 +1,10 @@
+name: Second_Workflow
+on: Workflow_dispatch
+  jobs:
+    Second_jobs
+      runs-on: ubuntu-latest
+        steps:
+          - name: Print Go
+            run: echo "GO GO"
+          - name: Print YO
+            run: echo "YO YO"
