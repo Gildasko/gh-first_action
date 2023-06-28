@@ -6,8 +6,8 @@ jobs:
     steps:
       - name: Print A
         run: |
-          echo "HHHHHHHHHHHHHHHH"
-          echo "kkkkkkkkkkkkkkkkkk"
+            echo "HHHHHHHHHHHHHHHH"
+            echo "kkkkkkkkkkkkkkkkkk"
       - name: Print B
         run: echo "JE SUIS PAS LA"
   
